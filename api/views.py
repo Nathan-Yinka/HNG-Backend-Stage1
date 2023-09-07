@@ -18,8 +18,8 @@ def get_user_info(request):
         'current_day': current_day,
         'utc_time': current_utc_time,
         'track': track,
-        'github_file_url': 'https://github.com/username/repo/blob/main/file_name.ext',
-        'github_repo_url': 'https://github.com/username/repo',
+        'github_file_url': 'https://github.com/Nathan-Yinka/HNG-Backend-Stage1/blob/main/api/views.py',
+        'github_repo_url': 'https://github.com/Nathan-Yinka/HNG-Backend-Stage1',
         'status_code': 200
     }
     
